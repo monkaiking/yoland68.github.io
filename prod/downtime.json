@@ -2,7 +2,7 @@
   "options": [
     {
       "name": "Record in habithub",
-      "weight": 15
+      "weight": 10
     },
     {
       "name": "Organize Todos for Today.md and Weekly.md",
@@ -15,7 +15,7 @@
     },
     {
       "name": "Read current pdf via play or drive",
-      "weight": 5
+      "weight": 0
     },
     {
       "name": "GTT",
